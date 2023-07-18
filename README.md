@@ -114,6 +114,15 @@
 - Webアプリケーション開発(ECサイト)(研修)
     - サーバサイド 開発
 
+# mermaid sample
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 <!--
 **chibadai/chibadai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
