@@ -27,7 +27,7 @@ gantt
 gantt
     title 2016年4月-現在
     dateFormat YYYY-MM
-    
+
     section 1
     OCR結果を用いた分類モデルの構築支援: active,a2023_1,2023-06,1M
     section 2
@@ -74,6 +74,17 @@ gantt
     社内業務内アプリケーションの開発・運用・保守: a2016_22,2016-09,7M
     section 23
     Webアプリケーション開発(ECサイト)(研修): a2016_23,2016-04,3M
+```
+
+### スキル内訳
+```mermaid
+pie
+    title 習熟度比率(ML周り)
+    "Tensorflow":7
+    "PyTorch":3
+    "Scikit-learn":10
+    "Optuna":2
+    "OpenCV":8
 ```
 
 ## スキル一覧
